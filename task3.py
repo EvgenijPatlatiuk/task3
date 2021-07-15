@@ -5,7 +5,7 @@ import tkinter as tk
 
 # Створення вікна
 root = Tk()
-root.title("Covid Status Dolomakin K.")
+root.title("Covid Status")
 root.geometry('450x500')
 root['bg']='green'
 
